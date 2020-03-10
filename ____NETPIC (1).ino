@@ -81,6 +81,6 @@ void loop()
     Serial.println("connection lost, reconnect...");
     microgear.connect(APPID);
    }
-    delay(1500);
+
 	
 }
