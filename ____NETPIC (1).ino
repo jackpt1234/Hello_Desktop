@@ -82,5 +82,8 @@ void loop()
     microgear.connect(APPID);
    }
     delay(1500);
+<<<<<<< Updated upstream
 	
+=======
+>>>>>>> Stashed changes
 }
