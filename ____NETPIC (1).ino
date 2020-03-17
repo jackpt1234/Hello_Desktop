@@ -81,8 +81,12 @@ void loop()
     Serial.println("connection lost, reconnect...");
     microgear.connect(APPID);
    }
+<<<<<<< HEAD
     delay(1500);
 <<<<<<< Updated upstream
+=======
+
+>>>>>>> e0d9f12d3d2351eb2eac029bfcbcdff3366719a4
 	
 =======
 >>>>>>> Stashed changes
